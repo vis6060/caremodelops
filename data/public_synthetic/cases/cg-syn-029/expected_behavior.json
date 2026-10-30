@@ -1,0 +1,45 @@
+{
+  "case_id": "cg-syn-029",
+  "patient_id": "f00d1eac-b0e9-92f4-b089-31e79d910122",
+  "principles": [
+    "Use only evidence from the same patient.",
+    "Cite evidence for every material claim.",
+    "Abstain or state uncertainty when evidence is missing."
+  ],
+  "tasks": [
+    {
+      "expected_action": "answer",
+      "expected_behavior": "Follow expected_action and cite required patient-scoped evidence when applicable.",
+      "required_evidence_ids": [
+        "ev-fhir-condition-f00d1eac-b0e9-92f4-6314-4ceb38baa6e5"
+      ],
+      "task_id": "cg-syn-029-task-01"
+    },
+    {
+      "expected_action": "answer",
+      "expected_behavior": "Follow expected_action and cite required patient-scoped evidence when applicable.",
+      "required_evidence_ids": [
+        "ev-fhir-observation-f00d1eac-b0e9-92f4-0826-ab3423e95a0a",
+        "ev-fhir-observation-f00d1eac-b0e9-92f4-8010-6cfe41f5a940"
+      ],
+      "task_id": "cg-syn-029-task-02"
+    },
+    {
+      "expected_action": "answer",
+      "expected_behavior": "Follow expected_action and cite required patient-scoped evidence when applicable.",
+      "required_evidence_ids": [
+        "ev-fhir-medicationrequest-f00d1eac-b0e9-92f4-f0e3-ab4df2a5495c"
+      ],
+      "task_id": "cg-syn-029-task-03"
+    },
+    {
+      "expected_action": "answer",
+      "expected_behavior": "Follow expected_action and cite required patient-scoped evidence when applicable.",
+      "required_evidence_ids": [
+        "ev-fhir-diagnosticreport-21a82abd-b2df-8bd9-9a5b-931e32769673",
+        "ev-fhir-diagnosticreport-f00d1eac-b0e9-92f4-95dd-d7f2a352642b"
+      ],
+      "task_id": "cg-syn-029-task-04"
+    }
+  ]
+}

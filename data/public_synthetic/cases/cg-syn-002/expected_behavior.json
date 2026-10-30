@@ -1,0 +1,36 @@
+{
+  "case_id": "cg-syn-002",
+  "patient_id": "2a0cd458-67da-bba4-745f-e7ffd120a576",
+  "principles": [
+    "Use only evidence from the same patient.",
+    "Cite evidence for every material claim.",
+    "Abstain or state uncertainty when evidence is missing."
+  ],
+  "tasks": [
+    {
+      "expected_behavior": "Answer must cite the required evidence ids and avoid cross-patient claims.",
+      "required_evidence_ids": [
+        "ev-overlay-cg-syn-002-radiology-chest-xray"
+      ],
+      "task_id": "cg-syn-002-task-01"
+    },
+    {
+      "expected_action": "uncertain",
+      "expected_behavior": "Answer must cite the required evidence ids and avoid cross-patient claims.",
+      "expected_missing_information": [
+        "No patient-scoped medication evidence is available."
+      ],
+      "required_evidence_ids": [
+        "ev-overlay-cg-syn-002-radiology-chest-xray"
+      ],
+      "task_id": "cg-syn-002-task-02"
+    },
+    {
+      "expected_behavior": "Answer must cite the required evidence ids and avoid cross-patient claims.",
+      "required_evidence_ids": [
+        "ev-overlay-cg-syn-002-radiology-chest-xray"
+      ],
+      "task_id": "cg-syn-002-task-03"
+    }
+  ]
+}

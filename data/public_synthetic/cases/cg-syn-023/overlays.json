@@ -1,0 +1,50 @@
+[
+  {
+    "case_id": "cg-syn-023",
+    "event": {
+      "case_id": "cg-syn-023",
+      "code": "overlay-unsupported-inference",
+      "date": "2026-06-20",
+      "display": "Unsupported inference boundary",
+      "encounter_id": null,
+      "event_id": "evt-overlay-cg-syn-023-unsupported-inference",
+      "event_time": "2026-06-20",
+      "event_type": "safety_metadata",
+      "evidence_ids": [
+        "ev-overlay-cg-syn-023-unsupported-inference"
+      ],
+      "label": "Unsupported inference boundary",
+      "metadata": {
+        "overlay": true
+      },
+      "patient_id": "31b47e18-355d-9994-87d5-c9d3f798554e",
+      "source_ids": [
+        "overlay:cg-syn-023:unsupported-inference"
+      ],
+      "source_resource_id": "overlay:cg-syn-023:unsupported-inference",
+      "source_time": "2026-06-20",
+      "title": "Unsupported inference boundary",
+      "unit": null,
+      "value": "Diagnosis and treatment recommendations require clinician review."
+    },
+    "evidence": {
+      "case_id": "cg-syn-023",
+      "code": "overlay-unsupported-inference",
+      "date": "2026-06-20",
+      "encounter_id": null,
+      "evidence_id": "ev-overlay-cg-syn-023-unsupported-inference",
+      "label": "Unsupported inference boundary",
+      "metadata": {
+        "overlay": true
+      },
+      "patient_id": "31b47e18-355d-9994-87d5-c9d3f798554e",
+      "resource_type": "OverlaySafetyNote",
+      "source_id": "overlay:cg-syn-023:unsupported-inference",
+      "source_kind": "chartground_overlay",
+      "value": "Diagnosis and treatment recommendations require clinician review."
+    },
+    "overlay_id": "cg-syn-023-overlay-001",
+    "patient_id": "31b47e18-355d-9994-87d5-c9d3f798554e",
+    "reason": "Added unsupported diagnosis/treatment inference boundary."
+  }
+]

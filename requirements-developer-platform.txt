@@ -1,0 +1,3 @@
+# Shared configuration is used in mock and live modes; SDK is imported only live.
+python-dotenv>=1.0,<2
+anthropic>=2.3,<3

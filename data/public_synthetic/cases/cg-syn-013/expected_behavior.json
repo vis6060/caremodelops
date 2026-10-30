@@ -1,0 +1,45 @@
+{
+  "case_id": "cg-syn-013",
+  "patient_id": "f51b72ad-f9dd-60e9-ccc0-b14dab899488",
+  "principles": [
+    "Use only evidence from the same patient.",
+    "Cite evidence for every material claim.",
+    "Abstain or state uncertainty when evidence is missing."
+  ],
+  "tasks": [
+    {
+      "expected_action": "answer",
+      "expected_behavior": "Follow expected_action and cite required patient-scoped evidence when applicable.",
+      "required_evidence_ids": [
+        "ev-fhir-condition-f51b72ad-f9dd-60e9-5486-d9b9ce8e0f17"
+      ],
+      "task_id": "cg-syn-013-task-01"
+    },
+    {
+      "expected_action": "answer",
+      "expected_behavior": "Follow expected_action and cite required patient-scoped evidence when applicable.",
+      "required_evidence_ids": [
+        "ev-fhir-observation-f51b72ad-f9dd-60e9-014e-48097355157c",
+        "ev-fhir-observation-f51b72ad-f9dd-60e9-8cca-7e2bbeeb40e5"
+      ],
+      "task_id": "cg-syn-013-task-02"
+    },
+    {
+      "expected_action": "answer",
+      "expected_behavior": "Follow expected_action and cite required patient-scoped evidence when applicable.",
+      "required_evidence_ids": [
+        "ev-fhir-medicationrequest-f51b72ad-f9dd-60e9-2b34-c6a1c3083518"
+      ],
+      "task_id": "cg-syn-013-task-03"
+    },
+    {
+      "expected_action": "escalate",
+      "expected_behavior": "Follow expected_action and cite required patient-scoped evidence when applicable.",
+      "required_evidence_ids": [
+        "ev-overlay-cg-syn-013-conflicting-medication-continued",
+        "ev-overlay-cg-syn-013-conflicting-medication-stopped"
+      ],
+      "task_id": "cg-syn-013-task-05"
+    }
+  ]
+}

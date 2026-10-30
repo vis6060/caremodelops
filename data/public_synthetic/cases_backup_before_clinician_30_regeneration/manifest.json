@@ -1,0 +1,222 @@
+{
+  "cases": [
+    {
+      "case_id": "cg-syn-001",
+      "complexity_score": 160,
+      "overlay_count": 1,
+      "patient_id": "96f0491f-13b9-67b5-5ca7-20037081f800",
+      "patient_name": "Moises22 Shon148 Ritchie586",
+      "source_bundle": "Moises22_Ritchie586_96f0491f-13b9-67b5-5ca7-20037081f800.json"
+    },
+    {
+      "case_id": "cg-syn-002",
+      "complexity_score": 154,
+      "overlay_count": 1,
+      "patient_id": "2a0cd458-67da-bba4-745f-e7ffd120a576",
+      "patient_name": "Gerard367 Grover559 Effertz744",
+      "source_bundle": "Gerard367_Effertz744_2a0cd458-67da-bba4-745f-e7ffd120a576.json"
+    },
+    {
+      "case_id": "cg-syn-003",
+      "complexity_score": 152,
+      "overlay_count": 1,
+      "patient_id": "61881389-a751-276d-d508-7c3975573c04",
+      "patient_name": "Gordon377 Nick779 Mayert710",
+      "source_bundle": "Gordon377_Mayert710_61881389-a751-276d-d508-7c3975573c04.json"
+    },
+    {
+      "case_id": "cg-syn-004",
+      "complexity_score": 134,
+      "overlay_count": 1,
+      "patient_id": "a18a7549-55f5-dfbd-03bd-8488f664ce2f",
+      "patient_name": "Frederick289 Hyman89 Bergstrom287",
+      "source_bundle": "Frederick289_Bergstrom287_a18a7549-55f5-dfbd-03bd-8488f664ce2f.json"
+    },
+    {
+      "case_id": "cg-syn-005",
+      "complexity_score": 133,
+      "overlay_count": 1,
+      "patient_id": "e283a1ed-e69b-fadc-1ef4-cae6ad541eb7",
+      "patient_name": "Rickey821 Ambrose149 Hilll811",
+      "source_bundle": "Rickey821_Hilll811_e283a1ed-e69b-fadc-1ef4-cae6ad541eb7.json"
+    },
+    {
+      "case_id": "cg-syn-006",
+      "complexity_score": 21961,
+      "overlay_count": 1,
+      "patient_id": "bb598416-7bda-c1db-1069-1774083ea954",
+      "patient_name": "Son314 Dorian295 Dooley940",
+      "source_bundle": "Son314_Dooley940_bb598416-7bda-c1db-1069-1774083ea954.json"
+    },
+    {
+      "case_id": "cg-syn-007",
+      "complexity_score": 15997,
+      "overlay_count": 1,
+      "patient_id": "78f78281-31b8-408c-4a99-7dd75bd7d9e5",
+      "patient_name": "Clement78 Chauncey770 Reilly981",
+      "source_bundle": "Clement78_Reilly981_78f78281-31b8-408c-4a99-7dd75bd7d9e5.json"
+    },
+    {
+      "case_id": "cg-syn-008",
+      "complexity_score": 14483,
+      "overlay_count": 1,
+      "patient_id": "02a59e9b-a141-57dd-8a7f-d78c5d007900",
+      "patient_name": "Virginia437 Luisa710 Alicea505",
+      "source_bundle": "Virginia437_Luisa710_Alicea505_02a59e9b-a141-57dd-8a7f-d78c5d007900.json"
+    },
+    {
+      "case_id": "cg-syn-009",
+      "complexity_score": 14036,
+      "overlay_count": 1,
+      "patient_id": "35a56404-16a0-e539-0c87-1122186fbd83",
+      "patient_name": "Quincy153 Terrance440 Nolan344",
+      "source_bundle": "Quincy153_Nolan344_35a56404-16a0-e539-0c87-1122186fbd83.json"
+    },
+    {
+      "case_id": "cg-syn-010",
+      "complexity_score": 13930,
+      "overlay_count": 1,
+      "patient_id": "f6c67d4a-567c-5876-7b20-e07274b1c5f5",
+      "patient_name": "Masako522 Valentine262 Stamm704",
+      "source_bundle": "Masako522_Valentine262_Stamm704_f6c67d4a-567c-5876-7b20-e07274b1c5f5.json"
+    },
+    {
+      "case_id": "cg-syn-011",
+      "complexity_score": 10772,
+      "overlay_count": 1,
+      "patient_id": "da6ee1aa-f130-1d57-c3ff-4b4feedee3fe",
+      "patient_name": "Lynsey2 Sanford861",
+      "source_bundle": "Lynsey2_Sanford861_da6ee1aa-f130-1d57-c3ff-4b4feedee3fe.json"
+    },
+    {
+      "case_id": "cg-syn-012",
+      "complexity_score": 9950,
+      "overlay_count": 1,
+      "patient_id": "bc2c4049-11ea-3f29-923a-23235e2f2199",
+      "patient_name": "Anissa357 Ashely524 Schimmel440",
+      "source_bundle": "Anissa357_Ashely524_Schimmel440_bc2c4049-11ea-3f29-923a-23235e2f2199.json"
+    },
+    {
+      "case_id": "cg-syn-013",
+      "complexity_score": 9860,
+      "overlay_count": 1,
+      "patient_id": "13d56655-0ab9-b5b1-3e51-de42c9dffa7a",
+      "patient_name": "Minh326 Rowe323",
+      "source_bundle": "Minh326_Rowe323_13d56655-0ab9-b5b1-3e51-de42c9dffa7a.json"
+    },
+    {
+      "case_id": "cg-syn-014",
+      "complexity_score": 9642,
+      "overlay_count": 1,
+      "patient_id": "26297b14-bb4f-bd55-26ed-c4fb8b88ec84",
+      "patient_name": "Adaline602 Particia365 Hintz995",
+      "source_bundle": "Adaline602_Hintz995_26297b14-bb4f-bd55-26ed-c4fb8b88ec84.json"
+    },
+    {
+      "case_id": "cg-syn-015",
+      "complexity_score": 8566,
+      "overlay_count": 1,
+      "patient_id": "754e1602-640a-d42d-3a9c-8c3e707e56c6",
+      "patient_name": "Mervin111 Esteban536 Schoen8",
+      "source_bundle": "Mervin111_Schoen8_754e1602-640a-d42d-3a9c-8c3e707e56c6.json"
+    },
+    {
+      "case_id": "cg-syn-016",
+      "complexity_score": 8460,
+      "overlay_count": 1,
+      "patient_id": "523aaa30-7d4d-f0ad-285f-1b06a33db834",
+      "patient_name": "Johnny786 Rosann381 Thiel172",
+      "source_bundle": "Johnny786_Rosann381_Thiel172_523aaa30-7d4d-f0ad-285f-1b06a33db834.json"
+    },
+    {
+      "case_id": "cg-syn-017",
+      "complexity_score": 8245,
+      "overlay_count": 1,
+      "patient_id": "891ab372-13c6-3b9f-13f4-bfc6a8d6205b",
+      "patient_name": "Vicente970 Balderas66",
+      "source_bundle": "Vicente970_Balderas66_891ab372-13c6-3b9f-13f4-bfc6a8d6205b.json"
+    },
+    {
+      "case_id": "cg-syn-018",
+      "complexity_score": 8143,
+      "overlay_count": 1,
+      "patient_id": "46a1cb4d-0106-9c1c-2b13-40b7dfa069f8",
+      "patient_name": "Rudolf736 Mckinley734 Luettgen772",
+      "source_bundle": "Rudolf736_Luettgen772_46a1cb4d-0106-9c1c-2b13-40b7dfa069f8.json"
+    },
+    {
+      "case_id": "cg-syn-019",
+      "complexity_score": 8041,
+      "overlay_count": 1,
+      "patient_id": "ea85d364-b7c5-4fd7-e310-8cbd257c5573",
+      "patient_name": "Rufina863 Chiquita638 Auer97",
+      "source_bundle": "Rufina863_Chiquita638_Auer97_ea85d364-b7c5-4fd7-e310-8cbd257c5573.json"
+    },
+    {
+      "case_id": "cg-syn-020",
+      "complexity_score": 6963,
+      "overlay_count": 1,
+      "patient_id": "0c12ca81-b6f8-0ff4-b755-4587cea10527",
+      "patient_name": "Bryon392 Alden634 Gleason633",
+      "source_bundle": "Bryon392_Gleason633_0c12ca81-b6f8-0ff4-b755-4587cea10527.json"
+    },
+    {
+      "case_id": "cg-syn-021",
+      "complexity_score": 6550,
+      "overlay_count": 1,
+      "patient_id": "b52212e7-3606-337a-4223-75423a7c9100",
+      "patient_name": "Tyler508 Jere230 Christiansen251",
+      "source_bundle": "Tyler508_Christiansen251_b52212e7-3606-337a-4223-75423a7c9100.json"
+    },
+    {
+      "case_id": "cg-syn-022",
+      "complexity_score": 6335,
+      "overlay_count": 1,
+      "patient_id": "c3e9ae37-f08d-6535-3275-36280dc9a084",
+      "patient_name": "Janae99 Nona876 Stehr398",
+      "source_bundle": "Janae99_Nona876_Stehr398_c3e9ae37-f08d-6535-3275-36280dc9a084.json"
+    },
+    {
+      "case_id": "cg-syn-023",
+      "complexity_score": 5302,
+      "overlay_count": 1,
+      "patient_id": "5c2102a9-1e48-bc42-f711-e40c57b7f4e6",
+      "patient_name": "Jennine355 Yuki258 Schultz619",
+      "source_bundle": "Jennine355_Yuki258_Schultz619_5c2102a9-1e48-bc42-f711-e40c57b7f4e6.json"
+    },
+    {
+      "case_id": "cg-syn-024",
+      "complexity_score": 5176,
+      "overlay_count": 1,
+      "patient_id": "636a8e8e-9aaa-4b14-bfee-c88d311572d4",
+      "patient_name": "Dean966 Dante562 Becker968",
+      "source_bundle": "Dean966_Becker968_636a8e8e-9aaa-4b14-bfee-c88d311572d4.json"
+    },
+    {
+      "case_id": "cg-syn-025",
+      "complexity_score": 4134,
+      "overlay_count": 1,
+      "patient_id": "e1b14f23-ba5d-1c1c-bc36-a3f4c88cec27",
+      "patient_name": "Ramiro608 Armando772 Cedillo160",
+      "source_bundle": "Ramiro608_Cedillo160_e1b14f23-ba5d-1c1c-bc36-a3f4c88cec27.json"
+    },
+    {
+      "case_id": "cg-syn-026",
+      "complexity_score": 3547,
+      "overlay_count": 1,
+      "patient_id": "6a7fb111-4d99-f3a5-6b42-396b1dcf68be",
+      "patient_name": "Hilton264 Fernando603 Erdman779",
+      "source_bundle": "Hilton264_Erdman779_6a7fb111-4d99-f3a5-6b42-396b1dcf68be.json"
+    },
+    {
+      "case_id": "cg-syn-027",
+      "complexity_score": 3198,
+      "overlay_count": 1,
+      "patient_id": "8ba1ce7a-1271-9d2c-6686-9047db8ad664",
+      "patient_name": "Rebecca981 Lila466 Hudson301",
+      "source_bundle": "Rebecca981_Lila466_Hudson301_8ba1ce7a-1271-9d2c-6686-9047db8ad664.json"
+    }
+  ],
+  "generated_at": "2026-07-03T00:00:00Z",
+  "last_appended_at": "2026-07-03T00:00:00Z"
+}

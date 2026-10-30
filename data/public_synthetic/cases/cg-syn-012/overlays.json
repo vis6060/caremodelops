@@ -1,0 +1,70 @@
+[
+  {
+    "case_id": "cg-syn-012",
+    "event": {
+      "case_id": "cg-syn-012",
+      "code": "overlay-med-conflict-stopped",
+      "date": "2026-06-20",
+      "display": "Lisinopril stopped",
+      "encounter_id": null,
+      "event_id": "evt-overlay-cg-syn-012-conflicting-medication",
+      "event_time": "2026-06-20",
+      "event_type": "medication_conflict",
+      "evidence_ids": [
+        "ev-overlay-cg-syn-012-conflicting-medication-stopped",
+        "ev-overlay-cg-syn-012-conflicting-medication-continued"
+      ],
+      "label": "Lisinopril stopped",
+      "metadata": {
+        "overlay": true
+      },
+      "patient_id": "2f6d78a0-1a81-cc53-4fc4-8a6d4109a2aa",
+      "source_ids": [
+        "overlay:cg-syn-012:conflicting-medication-stopped",
+        "overlay:cg-syn-012:conflicting-medication-continued"
+      ],
+      "source_resource_id": "overlay:cg-syn-012:conflicting-medication",
+      "source_time": "2026-06-20",
+      "title": "Lisinopril stopped",
+      "unit": null,
+      "value": "Medication list says lisinopril was both stopped and continued."
+    },
+    "evidence": [
+      {
+        "case_id": "cg-syn-012",
+        "code": "overlay-med-conflict-stopped",
+        "date": "2026-06-20",
+        "encounter_id": null,
+        "evidence_id": "ev-overlay-cg-syn-012-conflicting-medication-stopped",
+        "label": "Lisinopril stopped",
+        "metadata": {
+          "overlay": true
+        },
+        "patient_id": "2f6d78a0-1a81-cc53-4fc4-8a6d4109a2aa",
+        "resource_type": "OverlayMedicationStatement",
+        "source_id": "overlay:cg-syn-012:conflicting-medication-stopped",
+        "source_kind": "chartground_overlay",
+        "value": "stopped"
+      },
+      {
+        "case_id": "cg-syn-012",
+        "code": "overlay-med-conflict-continued",
+        "date": "2026-06-20",
+        "encounter_id": null,
+        "evidence_id": "ev-overlay-cg-syn-012-conflicting-medication-continued",
+        "label": "Lisinopril continued",
+        "metadata": {
+          "overlay": true
+        },
+        "patient_id": "2f6d78a0-1a81-cc53-4fc4-8a6d4109a2aa",
+        "resource_type": "OverlayMedicationStatement",
+        "source_id": "overlay:cg-syn-012:conflicting-medication-continued",
+        "source_kind": "chartground_overlay",
+        "value": "continued"
+      }
+    ],
+    "overlay_id": "cg-syn-012-overlay-001",
+    "patient_id": "2f6d78a0-1a81-cc53-4fc4-8a6d4109a2aa",
+    "reason": "Added conflicting medication documentation for escalation coverage."
+  }
+]

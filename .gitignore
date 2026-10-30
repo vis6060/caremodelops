@@ -1,0 +1,41 @@
+
+# Local environments and secrets
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+.local/
+.streamlit/secrets.toml
+credentials.json
+secrets.toml
+*.pem
+*.key
+*.p12
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Local application data
+results/
+mimic_private/
+private/
+*.db
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.duckdb
+
+# Backups and exports
+*.zip
+*.bak
+ChartGround_Local_Backups/
+
+# Local IDE state
+.vscode/
+.idea/

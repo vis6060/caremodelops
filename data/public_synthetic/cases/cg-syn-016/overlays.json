@@ -1,0 +1,50 @@
+[
+  {
+    "case_id": "cg-syn-016",
+    "event": {
+      "case_id": "cg-syn-016",
+      "code": "overlay-missing-lab",
+      "date": "2026-06-20",
+      "display": "Missing procalcitonin evidence",
+      "encounter_id": null,
+      "event_id": "evt-overlay-cg-syn-016-missing-lab",
+      "event_time": "2026-06-20",
+      "event_type": "missing_information",
+      "evidence_ids": [
+        "ev-overlay-cg-syn-016-missing-lab"
+      ],
+      "label": "Missing procalcitonin evidence",
+      "metadata": {
+        "overlay": true
+      },
+      "patient_id": "ba8c3a99-4297-eab0-6d11-5f97dd54a03b",
+      "source_ids": [
+        "overlay:cg-syn-016:missing-lab"
+      ],
+      "source_resource_id": "overlay:cg-syn-016:missing-lab",
+      "source_time": "2026-06-20",
+      "title": "Missing procalcitonin evidence",
+      "unit": null,
+      "value": "No procalcitonin result is present in the available public synthetic chart."
+    },
+    "evidence": {
+      "case_id": "cg-syn-016",
+      "code": "overlay-missing-lab",
+      "date": "2026-06-20",
+      "encounter_id": null,
+      "evidence_id": "ev-overlay-cg-syn-016-missing-lab",
+      "label": "Missing procalcitonin evidence",
+      "metadata": {
+        "overlay": true
+      },
+      "patient_id": "ba8c3a99-4297-eab0-6d11-5f97dd54a03b",
+      "resource_type": "OverlayMissingEvidence",
+      "source_id": "overlay:cg-syn-016:missing-lab",
+      "source_kind": "chartground_overlay",
+      "value": "No procalcitonin result is present in the available public synthetic chart."
+    },
+    "overlay_id": "cg-syn-016-overlay-001",
+    "patient_id": "ba8c3a99-4297-eab0-6d11-5f97dd54a03b",
+    "reason": "Added missing-lab evidence marker for uncertainty coverage."
+  }
+]
